@@ -284,7 +284,7 @@ class ArrayUtilityTest {
     }
 
     @org.junit.jupiter.api.Test
-    void testToString() {
+    void ToString() {
 
         String arrayOneString = ArrayUtility.toString(arrayOne);
         String arrayTwoString = ArrayUtility.toString(arrayTwo);
